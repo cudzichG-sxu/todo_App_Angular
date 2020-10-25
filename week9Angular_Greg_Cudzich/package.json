@@ -1,0 +1,11 @@
+{
+  "name": "week9angular_greg_cudzich",
+  "version": "0.0.1",
+  "description": "week 9 assignment with Angular",
+  "main": "todo_list.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Greg Cudzich",
+  "license": "ISC"
+}
